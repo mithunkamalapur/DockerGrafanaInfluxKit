@@ -3,5 +3,5 @@ Some of us who have been working in performance testing for a long time might st
 
 Lightweight docker compose to spin up Grafana and Influx for metrics collection and analyses [just run compose and you are ready to go]
 
-Link to the related article: 
+Link to the related article:   
 https://www.blazemeter.com/blog/how-to-create-a-lightweight-performance-monitoring-solution-with-docker-grafana-and-influxdb
